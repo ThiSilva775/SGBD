@@ -1,3 +1,8 @@
+Curso de Engenharia de Software - UniEVANGÉLICA
+Disciplina de Sistemas Gerenciadores de Banco de Dados
+Dev: Thiago Silva Soares
+DATA: 17/05/2023
+
 No contexto de SQL, a diferença entre procedures e functions é que as procedures são usadas para executar ações no banco de dados sem retornar um valor específico, enquanto as functions são usadas para realizar cálculos ou manipulações de dados e retornar um resultado específico. 
 
 As procedures são adequadas quando você precisa executar sequências de ações ou operações, enquanto as functions são úteis para realizar cálculos ou manipulações de dados e retornar um valor calculado. 
